@@ -23,6 +23,7 @@ File ini adalah halaman "Tentang" (About). Struktur file serupa dengan home.php,
 
 ![Screenshot 2024-11-29 041732](https://github.com/user-attachments/assets/c774c010-4dc4-4085-a4b1-ab8e89cb80bb)
 
+ini adalah halaman utama kontak
 File: footer.php
 File ini berisi footer HTML standar. Bagian ini menampilkan elemen footer pada setiap halaman.
 
